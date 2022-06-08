@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "lib": ["es6"],
+    "module": "commonjs",
+    "typeRoots": ["./node_modules/@types", "./src/@types"],
+    "resolveJsonModule": true,
+    "allowJs": true,
+    "removeComments": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  }
+}
